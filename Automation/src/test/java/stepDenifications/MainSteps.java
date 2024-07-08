@@ -13,6 +13,8 @@ public class MainSteps {
 	    System.out.println("User is on NetBanking landing page");
 	    System.out.println("how are you?");
 	    System.out.println("what is your name?");
+	    System.out.println("123?");
+	    
 	}
 	
 	@Given("User is on Practice landing page")
