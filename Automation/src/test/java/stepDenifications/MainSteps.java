@@ -62,4 +62,9 @@ public class MainSteps {
 	{
 		System.out.println("hit the home page url of banking site");
 	}
+	@When ("hit the home page url of banking site")
+	public void HitURL1()
+	{
+		System.out.println("hit the home page url of banking site");
+	}
 }
